@@ -1,0 +1,50 @@
+{
+  "vue": {
+    "scope": "vue",
+    "prefix": "vue",
+    "body": [
+      "<template>",
+      "$0",
+      "</template>",
+      "",
+      "<script setup>",
+      "",
+      "</script>",
+      "",
+      "<style scoped lang=\"scss\">",
+      "",
+      "</style>"
+    ],
+    "description": "Vue boilerplate"
+  },
+  "template": {
+    "scope": "vue",
+    "prefix": "tem",
+    "body": [
+      "<template>",
+      "$0",
+      "</template>"
+    ],
+    "description": "Template tag"
+  },
+  "script": {
+    "scope": "vue",
+    "prefix": "setup",
+    "body": [
+      "<script setup>",
+      "$0",
+      "</script>"
+    ],
+    "description": "Script setup"
+  },
+  "style": {
+    "scope": "vue",
+    "prefix": "ste",
+    "body": [
+      "<style scoped lang=\"scss\">",
+      "$0",
+      "</style>"
+    ],
+    "description": "Scoped style with scss"
+  }
+}
